@@ -26,6 +26,6 @@ public class PlayerControler : MonoBehaviour
 
     void Update()
     {
-        PlayerMove();
+        PlayerMove(); 
     }
 }
